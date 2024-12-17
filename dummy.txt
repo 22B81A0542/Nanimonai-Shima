@@ -1,1 +1,1 @@
-this is a dummy feature -- version 1
+this is a dummy feature -- version 2
